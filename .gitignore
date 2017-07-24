@@ -25,10 +25,7 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
-<<<<<<< HEAD
 dist
-=======
->>>>>>> 18a4ce92e899703e04c5d5ea51d4b85a6d84047b
 
 # Bower
 bower_components/
